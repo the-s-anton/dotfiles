@@ -40,6 +40,9 @@ Just [Anton's](https://twitter.com/the-anthony-s) dotfiles. You can copy these i
 
 6. Symlink configs
 
+    - note the Apple Selicon update.
+    
+
     ```
     ln -s ~/code/dotfiles/zsh/zshrc ~/.zshrc
     ln -s ~/code/dotfiles/vim/vimrc ~/.vimrc
